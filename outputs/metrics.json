@@ -1,0 +1,22 @@
+{
+  "project": "04-local-doc-search",
+  "seed": 42,
+  "data_source": "Repository-authored fictional campus handbook",
+  "chunk_count": 18,
+  "document_count": 6,
+  "chunking": {
+    "max_chars": 240,
+    "overlap": 40
+  },
+  "metrics": {
+    "tfidf": {
+      "source_mrr": 1.0,
+      "source_recall_at_3": 1.0
+    },
+    "keyword_overlap_baseline": {
+      "source_mrr": 1.0,
+      "source_recall_at_3": 1.0
+    }
+  },
+  "query_count": 24
+}

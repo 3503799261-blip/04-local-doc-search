@@ -1,0 +1,506 @@
+{
+  "tfidf": [
+    {
+      "query": "图书可以借多少天",
+      "relevant_sources": [
+        "library.md"
+      ],
+      "top_sources": [
+        "library.md",
+        "campus-card.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "借的书快到期了怎么续借",
+      "relevant_sources": [
+        "library.md"
+      ],
+      "top_sources": [
+        "library.md",
+        "lab.md"
+      ]
+    },
+    {
+      "query": "阅览室周末几点开门",
+      "relevant_sources": [
+        "library.md"
+      ],
+      "top_sources": [
+        "library.md"
+      ]
+    },
+    {
+      "query": "想借的书被别人借走如何预约",
+      "relevant_sources": [
+        "library.md"
+      ],
+      "top_sources": [
+        "library.md",
+        "meeting.md",
+        "lab.md"
+      ]
+    },
+    {
+      "query": "校园无线网络认证怎么登录",
+      "relevant_sources": [
+        "network.md"
+      ],
+      "top_sources": [
+        "network.md",
+        "course.md",
+        "campus-card.md"
+      ]
+    },
+    {
+      "query": "网络账号密码忘记了",
+      "relevant_sources": [
+        "network.md"
+      ],
+      "top_sources": [
+        "network.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "宿舍无线网老是断开怎么排查",
+      "relevant_sources": [
+        "network.md"
+      ],
+      "top_sources": [
+        "network.md",
+        "lab.md",
+        "meeting.md"
+      ]
+    },
+    {
+      "query": "认证过期后网页打不开怎么办",
+      "relevant_sources": [
+        "network.md"
+      ],
+      "top_sources": [
+        "network.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "会议室能够提前几天预约",
+      "relevant_sources": [
+        "meeting.md"
+      ],
+      "top_sources": [
+        "meeting.md",
+        "library.md",
+        "lab.md"
+      ]
+    },
+    {
+      "query": "会议不开了怎样取消预约",
+      "relevant_sources": [
+        "meeting.md"
+      ],
+      "top_sources": [
+        "meeting.md",
+        "library.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "开会迟到不签到会释放场地吗",
+      "relevant_sources": [
+        "meeting.md"
+      ],
+      "top_sources": [
+        "meeting.md"
+      ]
+    },
+    {
+      "query": "投影仪连接笔记本需要什么接口",
+      "relevant_sources": [
+        "meeting.md"
+      ],
+      "top_sources": [
+        "meeting.md",
+        "network.md",
+        "campus-card.md"
+      ]
+    },
+    {
+      "query": "想借相机需要老师确认吗",
+      "relevant_sources": [
+        "lab.md"
+      ],
+      "top_sources": [
+        "lab.md",
+        "course.md",
+        "library.md"
+      ]
+    },
+    {
+      "query": "开发板借用超过七天怎么延期",
+      "relevant_sources": [
+        "lab.md"
+      ],
+      "top_sources": [
+        "lab.md",
+        "library.md",
+        "campus-card.md"
+      ]
+    },
+    {
+      "query": "传感器坏了能自己拆开修理吗",
+      "relevant_sources": [
+        "lab.md"
+      ],
+      "top_sources": [
+        "lab.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "借用设备归还时要检查哪些配件",
+      "relevant_sources": [
+        "lab.md"
+      ],
+      "top_sources": [
+        "lab.md",
+        "library.md",
+        "network.md"
+      ]
+    },
+    {
+      "query": "选错课程怎么退课",
+      "relevant_sources": [
+        "course.md"
+      ],
+      "top_sources": [
+        "course.md",
+        "lab.md"
+      ]
+    },
+    {
+      "query": "在哪里下载老师的实验讲义",
+      "relevant_sources": [
+        "course.md"
+      ],
+      "top_sources": [
+        "course.md",
+        "lab.md",
+        "campus-card.md"
+      ]
+    },
+    {
+      "query": "作业提交错了能重新上传吗",
+      "relevant_sources": [
+        "course.md"
+      ],
+      "top_sources": [
+        "course.md",
+        "network.md",
+        "meeting.md"
+      ]
+    },
+    {
+      "query": "课程代码搜索不到怎么办",
+      "relevant_sources": [
+        "course.md"
+      ],
+      "top_sources": [
+        "course.md",
+        "lab.md"
+      ]
+    },
+    {
+      "query": "校园卡丢了应该先挂失还是补办",
+      "relevant_sources": [
+        "campus-card.md"
+      ],
+      "top_sources": [
+        "campus-card.md",
+        "network.md",
+        "library.md"
+      ]
+    },
+    {
+      "query": "给卡充值扣了钱却没到账",
+      "relevant_sources": [
+        "campus-card.md"
+      ],
+      "top_sources": [
+        "campus-card.md"
+      ]
+    },
+    {
+      "query": "怎么查看食堂消费的明细",
+      "relevant_sources": [
+        "campus-card.md"
+      ],
+      "top_sources": [
+        "campus-card.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "补办新卡后旧卡剩余的钱怎么办",
+      "relevant_sources": [
+        "campus-card.md"
+      ],
+      "top_sources": [
+        "campus-card.md",
+        "network.md"
+      ]
+    }
+  ],
+  "keyword_overlap": [
+    {
+      "query": "图书可以借多少天",
+      "relevant_sources": [
+        "library.md"
+      ],
+      "top_sources": [
+        "library.md",
+        "campus-card.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "借的书快到期了怎么续借",
+      "relevant_sources": [
+        "library.md"
+      ],
+      "top_sources": [
+        "library.md",
+        "lab.md"
+      ]
+    },
+    {
+      "query": "阅览室周末几点开门",
+      "relevant_sources": [
+        "library.md"
+      ],
+      "top_sources": [
+        "library.md"
+      ]
+    },
+    {
+      "query": "想借的书被别人借走如何预约",
+      "relevant_sources": [
+        "library.md"
+      ],
+      "top_sources": [
+        "library.md",
+        "lab.md",
+        "meeting.md"
+      ]
+    },
+    {
+      "query": "校园无线网络认证怎么登录",
+      "relevant_sources": [
+        "network.md"
+      ],
+      "top_sources": [
+        "network.md",
+        "course.md",
+        "campus-card.md"
+      ]
+    },
+    {
+      "query": "网络账号密码忘记了",
+      "relevant_sources": [
+        "network.md"
+      ],
+      "top_sources": [
+        "network.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "宿舍无线网老是断开怎么排查",
+      "relevant_sources": [
+        "network.md"
+      ],
+      "top_sources": [
+        "network.md",
+        "lab.md",
+        "meeting.md"
+      ]
+    },
+    {
+      "query": "认证过期后网页打不开怎么办",
+      "relevant_sources": [
+        "network.md"
+      ],
+      "top_sources": [
+        "network.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "会议室能够提前几天预约",
+      "relevant_sources": [
+        "meeting.md"
+      ],
+      "top_sources": [
+        "meeting.md",
+        "lab.md",
+        "library.md"
+      ]
+    },
+    {
+      "query": "会议不开了怎样取消预约",
+      "relevant_sources": [
+        "meeting.md"
+      ],
+      "top_sources": [
+        "meeting.md",
+        "library.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "开会迟到不签到会释放场地吗",
+      "relevant_sources": [
+        "meeting.md"
+      ],
+      "top_sources": [
+        "meeting.md"
+      ]
+    },
+    {
+      "query": "投影仪连接笔记本需要什么接口",
+      "relevant_sources": [
+        "meeting.md"
+      ],
+      "top_sources": [
+        "meeting.md",
+        "network.md",
+        "campus-card.md"
+      ]
+    },
+    {
+      "query": "想借相机需要老师确认吗",
+      "relevant_sources": [
+        "lab.md"
+      ],
+      "top_sources": [
+        "lab.md",
+        "campus-card.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "开发板借用超过七天怎么延期",
+      "relevant_sources": [
+        "lab.md"
+      ],
+      "top_sources": [
+        "lab.md",
+        "campus-card.md",
+        "library.md"
+      ]
+    },
+    {
+      "query": "传感器坏了能自己拆开修理吗",
+      "relevant_sources": [
+        "lab.md"
+      ],
+      "top_sources": [
+        "lab.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "借用设备归还时要检查哪些配件",
+      "relevant_sources": [
+        "lab.md"
+      ],
+      "top_sources": [
+        "lab.md",
+        "library.md",
+        "network.md"
+      ]
+    },
+    {
+      "query": "选错课程怎么退课",
+      "relevant_sources": [
+        "course.md"
+      ],
+      "top_sources": [
+        "course.md",
+        "lab.md"
+      ]
+    },
+    {
+      "query": "在哪里下载老师的实验讲义",
+      "relevant_sources": [
+        "course.md"
+      ],
+      "top_sources": [
+        "course.md",
+        "lab.md",
+        "campus-card.md"
+      ]
+    },
+    {
+      "query": "作业提交错了能重新上传吗",
+      "relevant_sources": [
+        "course.md"
+      ],
+      "top_sources": [
+        "course.md",
+        "campus-card.md",
+        "lab.md"
+      ]
+    },
+    {
+      "query": "课程代码搜索不到怎么办",
+      "relevant_sources": [
+        "course.md"
+      ],
+      "top_sources": [
+        "course.md",
+        "lab.md"
+      ]
+    },
+    {
+      "query": "校园卡丢了应该先挂失还是补办",
+      "relevant_sources": [
+        "campus-card.md"
+      ],
+      "top_sources": [
+        "campus-card.md",
+        "library.md",
+        "network.md"
+      ]
+    },
+    {
+      "query": "给卡充值扣了钱却没到账",
+      "relevant_sources": [
+        "campus-card.md"
+      ],
+      "top_sources": [
+        "campus-card.md"
+      ]
+    },
+    {
+      "query": "怎么查看食堂消费的明细",
+      "relevant_sources": [
+        "campus-card.md"
+      ],
+      "top_sources": [
+        "campus-card.md",
+        "course.md"
+      ]
+    },
+    {
+      "query": "补办新卡后旧卡剩余的钱怎么办",
+      "relevant_sources": [
+        "campus-card.md"
+      ],
+      "top_sources": [
+        "campus-card.md",
+        "network.md"
+      ]
+    }
+  ]
+}
